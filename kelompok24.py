@@ -1,1 +1,1 @@
-print ("kelompok 24")
+print ("ini kelompok 24")
