@@ -1,0 +1,1 @@
+print ("kelompok 24")
